@@ -11,7 +11,6 @@ const App = () => {
       <Button color="red" />
       <p> blablablaascasca</p>
       <a href="/home">ascascuasc</a>
-
     </>
   )
 }
